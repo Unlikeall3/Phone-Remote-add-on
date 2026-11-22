@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phone Remote</string>
+    <string name="change_addr">Сменить адрес</string>
+</resources>

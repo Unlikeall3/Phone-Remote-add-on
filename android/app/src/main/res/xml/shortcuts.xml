@@ -1,0 +1,11 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="addr"
+        android:enabled="true"
+        android:shortcutShortLabel="@string/change_addr">
+        <intent
+            android:action="com.unlikeall.phoneremote.ADDR"
+            android:targetPackage="com.unlikeall.phoneremote"
+            android:targetClass="com.unlikeall.phoneremote.MainActivity" />
+    </shortcut>
+</shortcuts>
