@@ -83,7 +83,7 @@ Issues and pull requests are welcome. When reporting a bug please attach the deb
 
 Roman — subscribe to the YouTube channel: https://youtube.com/@unlikeall3
 
-Tutorial how to install Phone Remote as app from google chrome on android(probably for many other browsers you can install it without this) also make shure that in app settings <show nearby devices enabled> otherwise you won't open the page.
+Tutorial how to install Phone Remote as app from google chrome on android(probably for many other browsers you can install it without this) also make shure that in app settings show nearby devices enabled,otherwise you won't open the page.
 
 Enter this in adress bar:
 
