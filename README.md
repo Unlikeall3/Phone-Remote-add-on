@@ -82,3 +82,22 @@ Issues and pull requests are welcome. When reporting a bug please attach the deb
 ## Support the developer
 
 Roman — subscribe to the YouTube channel: https://youtube.com/@unlikeall3
+
+Tutorial how to install Phone Remote as app from google chrome on android(probably for many other browsers you can install it without this) also make shure that in app settings <show nearby devices enabled> otherwise you won't open the page.
+
+Enter this in adress bar:
+
+chrome://flags/#unsafely-treat-insecure-origin-as-secure
+
+Insecure origins treated as secure
+Treat given (insecure) origins as secure origins.
+
+Enter Phone remote IP in field below,for me it is:
+http://192.168.50.196:8090
+
+And tap:
+#unsafely-treat-insecure-origin-as-secure
+
+Now you can install it as app in google chrome,click on 3 tods,scroll down and click install as app.It should appear as app on your home screen.
+
+You will get ability to share links straight into Phone Remote and play them.
